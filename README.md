@@ -1,2 +1,4 @@
 # The-Void
-escape the Void
+Find ship
+find keys
+Fly away
